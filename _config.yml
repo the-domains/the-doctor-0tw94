@@ -1,4 +1,3 @@
-layout_spectrum: 0.5406442021485418
 typography_spectrum: 0.8677793093957007
 color:
   brandStrength: 0.993765298044309
@@ -11,5 +10,7 @@ color:
     - '#ED4846'
     - '#DADADA'
     - '#A8A8A8'
+layout_spectrum: 0.5406442021485418
 name: The Doctor
 title: Your Doctor. Completely Reinvented.
+description: We didn't change anything. We changed everything!
